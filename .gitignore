@@ -1,1 +1,5 @@
-
+*.txt
+*.pdf
+*.class
+*.py
+*.java
